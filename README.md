@@ -96,7 +96,7 @@ Atuei no levantamento das necessidades para um sistema de gestão de padaria, co
 
 O estudo de caso é uma reconstrução resumida da minha atuação, sem divulgar materiais confidenciais ou pertencentes ao projeto original.
 
-[**Acessar estudo de caso**](projetos/sistema-padaria/README.md)
+<a href="projetos/sistema-padaria/README.md"><img src="assets/botao-estudo-de-caso.svg" alt="Acessar estudo de caso" height="43" /></a>
 
 ## Formação acadêmica
 
@@ -104,8 +104,7 @@ O estudo de caso é uma reconstrução resumida da minha atuação, sem divulgar
 
 ## Contato profissional
 
-- **LinkedIn:** [Perfil profissional](https://www.linkedin.com/in/jofrey-fukakusa/)
-- **GitHub:** [Repositórios e projetos](https://github.com/jofreyfukakusa3-commits)
+<a href="https://www.linkedin.com/in/jofrey-fukakusa/"><img src="assets/botao-linkedin.svg" alt="Acessar LinkedIn profissional" height="43" /></a>&nbsp;&nbsp;<a href="https://github.com/jofreyfukakusa3-commits"><img src="assets/botao-github.svg" alt="Ver projetos no GitHub" height="43" /></a>
 
 ---
 
