@@ -42,36 +42,36 @@
 <tr>
 <td width="50%" valign="top">
 
-### SIGES
-**Gestão e Prestação de Contas**
+### Sistema de Gestão e Prestação de Contas
+**Gestão Pública e Controle Administrativo**
 
-Atuação na análise de requisitos, definição de regras de negócio, mapeamento de fluxos e validação funcional de sistema relacionado à prestação de contas no contexto do **AUDESP Fase V**, do TCE-SP.
+Atuação na análise de requisitos, definição de regras de negócio, mapeamento de processos e validação funcional de um sistema voltado à gestão e prestação de contas.
 
 **Ênfase:** fluxos de análise, perfis de acesso, acompanhamento de status, relatórios e indicadores gerenciais.
 
 </td>
 <td width="50%" valign="top">
 
-### Remédio SP
-**Soluções Digitais em Saúde**
+### Sistema de Gestão de Serviços de Saúde
+**Transformação Digital e Saúde Pública**
 
-Atuação em análise de negócios e requisitos, prototipação, revisão de regras de negócio e validação funcional de fluxos relacionados à gestão de solicitações e medicamentos.
+Atuação na análise de negócios e requisitos, prototipação, revisão de regras de negócio e validação funcional de processos relacionados à gestão de solicitações e serviços de saúde.
 
-**Ênfase:** processos de negócio, critérios de validação, experiência do usuário e evolução funcional.
+**Ênfase:** processos de negócio, critérios de validação, experiência do usuário e melhoria contínua das funcionalidades.
 
 </td>
 </tr>
 </table>
 
-*As experiências institucionais são apresentadas de forma descritiva, sem exposição de código, documentos internos ou informações restritas.*
+*As experiências profissionais são apresentadas de forma descritiva, preservando a confidencialidade dos projetos, das instituições e das informações internas.*
 
 ## Estudo de caso
 
-### Levantamento de Requisitos para Sistema de Gestão de Padaria
+### Levantamento de Requisitos para Sistema de Gestão Comercial
 
 <p align="justify">Esta experiência representa meu início na área de análise de requisitos.</p>
 
-<p align="justify">Atuei no levantamento das necessidades para um sistema de gestão de padaria, com foco na compreensão dos processos do negócio, identificação das necessidades dos usuários e documentação dos requisitos para apoiar a definição da solução.</p>
+<p align="justify">Atuei no levantamento das necessidades para um sistema de gestão de um pequeno negócio do setor alimentício, com foco na compreensão dos processos, identificação das necessidades dos usuários e documentação dos requisitos para apoiar a definição da solução.</p>
 
 <p align="justify">O estudo de caso é uma reconstrução resumida da minha atuação, sem divulgar materiais confidenciais ou pertencentes ao projeto original.</p>
 
