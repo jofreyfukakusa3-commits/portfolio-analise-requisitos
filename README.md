@@ -18,44 +18,23 @@
 
 ## Apresentação profissional
 
-Sou **Analista de Negócios e Requisitos**, com experiência em levantamento, documentação, refinamento, homologação e acompanhamento do desenvolvimento de sistemas.
+<p align="justify">Sou <strong>Analista de Negócios e Requisitos</strong>, com experiência em levantamento, documentação, refinamento, homologação e acompanhamento do desenvolvimento de sistemas.</p>
 
-Atuo na conexão entre as necessidades das áreas de negócio e as soluções tecnológicas, com foco na clareza dos requisitos, rastreabilidade das decisões e melhoria contínua dos processos.
+<p align="justify">Atuo na conexão entre as necessidades das áreas de negócio e as soluções tecnológicas, com foco na clareza dos requisitos, rastreabilidade das decisões e melhoria contínua dos processos.</p>
 
-Atualmente, participo de iniciativas de desenvolvimento e modernização de sistemas na **Secretaria de Estado da Saúde de São Paulo**.
+<p align="justify">Atualmente, participo de iniciativas de desenvolvimento e modernização de sistemas na <strong>Secretaria de Estado da Saúde de São Paulo</strong>.</p>
 
 ## Áreas de atuação
 
-Atuação integrada em todo o ciclo de análise, da compreensão do negócio à validação das entregas.
+<p align="justify">Atuação integrada em todo o ciclo de análise, da compreensão do negócio à validação das entregas. Selecione uma área para conhecer as atividades, competências e artefatos relacionados.</p>
 
 <p align="center">
-  <img src="assets/card-negocio.svg" alt="Negócio e processos: necessidades, fluxos e regras de negócio" width="32%" />
-  <img src="assets/card-requisitos.svg" alt="Requisitos e solução: especificação, critérios de aceite e prototipação" width="32%" />
-  <img src="assets/card-entrega.svg" alt="Entrega e qualidade: backlog, testes e homologação" width="32%" />
+  <a href="competencias/negocio-processos.md"><img src="assets/card-negocio.svg" alt="Abrir detalhamento de Negócio e processos" width="32%" /></a>
+  <a href="competencias/requisitos-solucao.md"><img src="assets/card-requisitos.svg" alt="Abrir detalhamento de Requisitos e solução" width="32%" /></a>
+  <a href="competencias/entrega-qualidade.md"><img src="assets/card-entrega.svg" alt="Abrir detalhamento de Entrega e qualidade" width="32%" /></a>
 </p>
 
-<details>
-<summary><strong>Ver competências detalhadas</strong></summary>
-
-### 01 | Negócio e processos
-- Levantamento de necessidades
-- Mapeamento e análise de processos
-- Regras de negócio e casos de uso
-- Análise de fluxos e perfis de acesso
-
-### 02 | Requisitos e solução
-- Especificação e refinamento de requisitos
-- Histórias de usuário e critérios de aceite
-- Prototipação e validação funcional
-- Documentação e rastreabilidade
-
-### 03 | Entrega e qualidade
-- Gestão e priorização de backlog
-- Testes funcionais e homologação
-- Alinhamento entre negócio e equipe técnica
-- Práticas e metodologias ágeis
-
-</details>
+<p align="center"><sub>Selecione um dos cards para visualizar o descritivo completo.</sub></p>
 
 ## Experiência em projetos
 
@@ -90,11 +69,11 @@ Atuação em análise de negócios e requisitos, prototipação, revisão de reg
 
 ### Levantamento de Requisitos para Sistema de Gestão de Padaria
 
-Esta experiência representa meu início na área de análise de requisitos.
+<p align="justify">Esta experiência representa meu início na área de análise de requisitos.</p>
 
-Atuei no levantamento das necessidades para um sistema de gestão de padaria, com foco na compreensão dos processos do negócio, identificação das necessidades dos usuários e documentação dos requisitos para apoiar a definição da solução.
+<p align="justify">Atuei no levantamento das necessidades para um sistema de gestão de padaria, com foco na compreensão dos processos do negócio, identificação das necessidades dos usuários e documentação dos requisitos para apoiar a definição da solução.</p>
 
-O estudo de caso é uma reconstrução resumida da minha atuação, sem divulgar materiais confidenciais ou pertencentes ao projeto original.
+<p align="justify">O estudo de caso é uma reconstrução resumida da minha atuação, sem divulgar materiais confidenciais ou pertencentes ao projeto original.</p>
 
 <a href="projetos/sistema-padaria/README.md"><img src="assets/botao-estudo-de-caso.svg" alt="Acessar estudo de caso" height="43" /></a>
 
