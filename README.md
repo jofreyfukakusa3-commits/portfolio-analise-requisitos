@@ -10,7 +10,7 @@
 
 **Da compreensão do negócio à validação das soluções.**
 
-[**LinkedIn profissional**](https://www.linkedin.com/in/jofrey-fukakusa/) &nbsp; | &nbsp; [**Projetos no GitHub**](https://github.com/jofreyfukakusa3-commits)
+<a href="https://www.linkedin.com/in/jofrey-fukakusa/"><img src="assets/botao-linkedin.svg" alt="Acessar LinkedIn profissional" height="43" /></a>&nbsp;&nbsp;<a href="https://github.com/jofreyfukakusa3-commits"><img src="assets/botao-github.svg" alt="Ver projetos no GitHub" height="43" /></a>
 
 </div>
 
@@ -26,42 +26,36 @@ Atualmente, participo de iniciativas de desenvolvimento e modernização de sist
 
 ## Áreas de atuação
 
-Atuação integrada em todo o ciclo de análise, da compreensão do contexto de negócio à validação das entregas.
+Atuação integrada em todo o ciclo de análise, da compreensão do negócio à validação das entregas.
 
-<table>
-<tr>
-<td width="33%" valign="top">
-<h3>01 | Negócio e processos</h3>
-<p>Entender o problema, os envolvidos e as regras que orientam a solução.</p>
-<ul>
-<li>Levantamento de necessidades</li>
-<li>Mapeamento e análise de processos</li>
-<li>Regras de negócio e casos de uso</li>
-<li>Análise de fluxos e perfis de acesso</li>
-</ul>
-</td>
-<td width="33%" valign="top">
-<h3>02 | Requisitos e solução</h3>
-<p>Transformar necessidades em requisitos claros e soluções verificáveis.</p>
-<ul>
-<li>Especificação e refinamento de requisitos</li>
-<li>Histórias de usuário e critérios de aceite</li>
-<li>Prototipação e validação funcional</li>
-<li>Documentação e rastreabilidade</li>
-</ul>
-</td>
-<td width="34%" valign="top">
-<h3>03 | Entrega e qualidade</h3>
-<p>Apoiar o desenvolvimento e verificar a aderência ao que foi definido.</p>
-<ul>
-<li>Gestão e priorização de backlog</li>
-<li>Testes funcionais e homologação</li>
-<li>Alinhamento entre negócio e equipe técnica</li>
-<li>Práticas e metodologias ágeis</li>
-</ul>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="assets/card-negocio.svg" alt="Negócio e processos: necessidades, fluxos e regras de negócio" width="32%" />
+  <img src="assets/card-requisitos.svg" alt="Requisitos e solução: especificação, critérios de aceite e prototipação" width="32%" />
+  <img src="assets/card-entrega.svg" alt="Entrega e qualidade: backlog, testes e homologação" width="32%" />
+</p>
+
+<details>
+<summary><strong>Ver competências detalhadas</strong></summary>
+
+### 01 | Negócio e processos
+- Levantamento de necessidades
+- Mapeamento e análise de processos
+- Regras de negócio e casos de uso
+- Análise de fluxos e perfis de acesso
+
+### 02 | Requisitos e solução
+- Especificação e refinamento de requisitos
+- Histórias de usuário e critérios de aceite
+- Prototipação e validação funcional
+- Documentação e rastreabilidade
+
+### 03 | Entrega e qualidade
+- Gestão e priorização de backlog
+- Testes funcionais e homologação
+- Alinhamento entre negócio e equipe técnica
+- Práticas e metodologias ágeis
+
+</details>
 
 ## Experiência em projetos
 
