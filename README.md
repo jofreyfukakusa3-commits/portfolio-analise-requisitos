@@ -26,13 +26,42 @@ Atualmente, participo de iniciativas de desenvolvimento e modernização de sist
 
 ## Áreas de atuação
 
-| Análise e requisitos | Processos e entrega |
-| :--- | :--- |
-| Levantamento e análise de requisitos | Mapeamento de processos |
-| Regras de negócio e casos de uso | Histórias de usuário e critérios de aceite |
-| Documentação e refinamento | Gestão e priorização de backlog |
-| Análise de fluxos e perfis de acesso | Testes funcionais e homologação |
-| Prototipação e validação funcional | Metodologias ágeis e comunicação entre equipes |
+Atuação integrada em todo o ciclo de análise, da compreensão do contexto de negócio à validação das entregas.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<h3>01 | Negócio e processos</h3>
+<p>Entender o problema, os envolvidos e as regras que orientam a solução.</p>
+<ul>
+<li>Levantamento de necessidades</li>
+<li>Mapeamento e análise de processos</li>
+<li>Regras de negócio e casos de uso</li>
+<li>Análise de fluxos e perfis de acesso</li>
+</ul>
+</td>
+<td width="33%" valign="top">
+<h3>02 | Requisitos e solução</h3>
+<p>Transformar necessidades em requisitos claros e soluções verificáveis.</p>
+<ul>
+<li>Especificação e refinamento de requisitos</li>
+<li>Histórias de usuário e critérios de aceite</li>
+<li>Prototipação e validação funcional</li>
+<li>Documentação e rastreabilidade</li>
+</ul>
+</td>
+<td width="34%" valign="top">
+<h3>03 | Entrega e qualidade</h3>
+<p>Apoiar o desenvolvimento e verificar a aderência ao que foi definido.</p>
+<ul>
+<li>Gestão e priorização de backlog</li>
+<li>Testes funcionais e homologação</li>
+<li>Alinhamento entre negócio e equipe técnica</li>
+<li>Práticas e metodologias ágeis</li>
+</ul>
+</td>
+</tr>
+</table>
 
 ## Experiência em projetos
 
